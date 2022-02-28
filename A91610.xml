@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short discovery of the mystery of iniquitie. To which is added also, a brief discovery of the falso holinesse of nations, their instituted or church state, and what appertains thereunto: set forth for the good of all that love truth in the inward parts. / By Mich: Quintyne.</title>
+            <author>Quintyne, Michael.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91610</idno>
+            <idno type="STC">Wing Q228</idno>
+            <idno type="STC">Thomason E307_9</idno>
+            <idno type="STC">ESTC R200341</idno>
+            <idno type="EEBO-CITATION">99861144</idno>
+            <idno type="PROQUEST">99861144</idno>
+            <idno type="VID">158810</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158810)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E307[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short discovery of the mystery of iniquitie. To which is added also, a brief discovery of the falso holinesse of nations, their instituted or church state, and what appertains thereunto: set forth for the good of all that love truth in the inward parts. / By Mich: Quintyne.</title>
+                  <author>Quintyne, Michael.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Ann. Dom. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "A fayned Independant"; "Octob. 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158810:1" rendition="simple:additions"/>
+            <p>A SHORT DISCOVERY OF THE <hi>MYSTERY</hi> OF INIQVITIE.</p>
+            <q>
+               <bibl>2 Theſ. 2.7.</bibl>
+               <p>For the myſterie of Iniquitie doth already work.</p>
+            </q>
+            <q>
+               <bibl>Revel. 17.5.</bibl>
+               <p>And upon her forehead was a name written, Myſterie, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>1 Pet. 3.13,14,15.</bibl>
+               <p>Who is he that will harm you if ye be followers of that which is good? But and if ye ſuffer for righteouſneſſe ſake, &amp;c.</p>
+            </q>
+            <p>To which is added alſo, A Brief Diſcovery of the falſe holineſſe of Nations, their Inſtituted or Church State, and what appertains thereunto: ſet forth for the good of all that love Truth in the inward parts.</p>
+            <p>By <hi>Mich: Quintyne.</hi>
+            </p>
+            <q>
+               <bibl>2 Pet. 2.1.</bibl>
+               <p>But there were falſe Prophets alſo among the people, even as there ſhall be falſe Teachers among you.</p>
+               <bibl>Verſe. 3.</bibl>
+               <p>And through covetouſneſſe ſhall they with feigned words make merchandize of you, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>Coloſ. 2.8.</bibl>
+               <p>Beware leſt any man ſpoil you through Philoſophie, and vain deceit, &amp;c.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author. <hi>Ann. Dom.</hi> 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:158810:2"/>
+            <p>
+               <note place="margin">Matth. 10. from 26. to ver. 34.</note> REader, take notice in publiſhing what is agreeable to the will of God, and welfare of mankind, without ſpeciall Li<g ref="char:EOLhyphen"/>cence, is no contempt of Authority, but of oppreſsion, or the threat<g ref="char:EOLhyphen"/>nings thereof. <hi>Prov. 3.5,6.</hi> Truſt in the Lord with all thine heart, &amp;c. In all thy wayes acknowledge him, &amp;c. We muſt not be afraid to pull Antichriſt by the coat, and pull it off alſo to diſ<g ref="char:EOLhyphen"/>cover him to the people; For tis he that maketh oppreſsion and in<g ref="char:EOLhyphen"/>juſtice eaſie; till he be removed here will be no roome for a new Heaven and a new Earth; in the ſenſe of the want thereof, let nothing be ſpared to gain them; for what is heaven and earth wherein is no righteouſneſſe to be enjoyed, and uſed towards God and man; behold the policie to prevent the leaſt touch of falſe ho<g ref="char:EOLhyphen"/>lineſſe, and injuſtice; but wo unto them that ſeek deep, to hide their counſell from the Lord. &amp;c. <hi>Iſa. 29.15,16.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:158810:2"/>
+            <div type="treatise">
+               <head>A ſhort Diſcovery of the <hi>Myſtery of Iniquity.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg> Have formerly commended to the <hi>King</hi> and <hi>Parlament</hi> in ſpeciall manner (yet not excluſively) to their conſi<g ref="char:EOLhyphen"/>deration, the Diſcovery of the States of Policie, and likewiſe the natures from whence they flow (the lar<g ref="char:EOLhyphen"/>geſt knowledge, with the right uſe whereof, is their moſt lively and proper Element) which leadeth to the preſerva<g ref="char:EOLhyphen"/>tion of the Church of Chriſt, and maintenance of humanity: and as fully do charge it upon them (it being principally their work to diſcern, and diſtinguiſh between them; and ſo to order their Dominions that each may have its due: <hi>Rom.</hi> 13.3,4,5,6. 1 <hi>Tim.</hi> 2.12. both which Treatiſes were much lamed in Printing; but I hope the time now is, and yet will be more wherein men will look upon right drift, and good intentions, then miſtakes in writing and Printing of any point ſubſtantiall or circumſtantiall; Trying all things, and holding faſt that which is good, according to Divine counſell. 1 <hi>Theſſ.</hi> 5.21. conſidering man incident to error: And for the better accompliſhment of the work intended, even that all men (whether eſteemed better or worſe of each other in Religion) keeping the bonds of Civilitie may live a peaceable life, enjoying the liberty of their ſouls and bodies, kept as aforeſaid within the Laws of humanity, in the free uſe of their conſciences in their re<g ref="char:EOLhyphen"/>ligious ſervice of God: I do in the diſcharge of my dutie to God and man, according as I have received; ſet forth to the generall conſideration of all men, this following Diſcovery of <hi>the Mystery of Iniquitie;</hi> And that it may be done in the fulleſt meaſure to the common underſtanding of humane reaſon, let it be conſidered:
+<list>
+                     <item>Firſt, what a <hi>Myſtery</hi> is, or wherein it doth conſiſt.</item>
+                     <item>Secondly, whence it floweth, or the reaſon of it.</item>
+                     <item>Thirdly, what it ſerveth to, or is of uſe for.</item>
+                  </list>
+               </p>
+               <p>A <hi>Myſtery</hi> is or doth conſiſt in two reſpects.</p>
+               <p>Firſt, in the curious compoſition of any creature, whether arti<g ref="char:EOLhyphen"/>ficiall, politique, or naturall; under one of which titles all the crea<g ref="char:EOLhyphen"/>tures that are have their being.</p>
+               <pb n="2" facs="tcp:158810:3"/>
+               <p>Secondly, in the curious counterfeiting of any thing, making things ſeem the ſame, which in nature and truth they are very ſhort of, or the abſolute contrary.</p>
+               <p>In things artificiall the firſt is proved in moſt Indentures of Ap<g ref="char:EOLhyphen"/>prentiſhip, in the expreſſion of what is to be taught, and learned, under the title of Trade, Art, and Myſterie.</p>
+               <p>The ſecond is ſufficiently proved in the uſuall cheats and com<g ref="char:EOLhyphen"/>mon deceits in artificiall things.</p>
+               <p>In Policie of all ſorts is proof of the firſt in the conſtitution or way of unifying the matter and form thereof; both in Civill and Eccleſiaſticall; the palpable, groſſe, and common ignorance, wherein the wrong and falſe is uſually taken, and uſed for the true in both ſorts, confirmeth it.</p>
+               <p>The ſecond is alſo apparently true in bodies politique, in the Civill, in caſes of uſurpation, ſo likewiſe in Eccleſiaſticall, the Jewiſh falſe in the conſtitution; and the Antichriſtian falſe from the inſtitution; and in every main part of the conſtitution, yet ac<g ref="char:EOLhyphen"/>cepted and approved of, by people, Nations<g ref="char:punc">▪</g> and Languages to their utter ruine and deſtruction; beſides your own experience of the truth hereof, I ſhall in future paſſages prove it by principles rationall, confirmed by Divine records.</p>
+               <p>In things naturall, vegitables, animals, and rationals, the firſt is evidently true. For the curioſity of their elimentary compoſi<g ref="char:EOLhyphen"/>tions, or conſtitutions of the meaneſt of them, yea the leaſt part of them is to the wiſeſt of men a Myſtery; for who can make a natu<g ref="char:EOLhyphen"/>rall haire? experience is without deniall.</p>
+               <p>The ſecond is moſt manifeſtly true in things naturall, ſince the curſe in <hi>Adams</hi> dayes upon the earth for his ſake; the deceit in ve<g ref="char:EOLhyphen"/>gitables, and in animals (which alſo is the more through abuſe) taketh away all doubt thereof; And ſince mans firſt tranſgreſſion whereby humane nature became ſubjected with a curſe (and through the continued permiſſion of God) to the uſe of the devill, (the redeemed onely in moſt ſpeciall manner excepted) unleſſe in the father of lies himſelf, where can be found greater miſchievous deceit then in the ſons of men?</p>
+               <p>The Reaſon of a Myſtery in relation to any or either of the fore<g ref="char:EOLhyphen"/>ſaid creatures is twofold.</p>
+               <p n="1">1 Is from the rareneſſe of the eſſence or ſubſtance, and conſtitu<g ref="char:EOLhyphen"/>tion or contrivance of things artificiall or politique, and from th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt curious compoſition by creation or generation of natures,
+<pb n="3" facs="tcp:158810:3"/> and ſpirits, which by infuſion the Creator alone hath brought forth, and doth, and will willingly and permiſſively, until his determinations are accompliſhed.</p>
+               <p n="2">2 Is from the weakneſſe of our capacitie, ſhallowneſſe of our underſtanding, and unaptneſſe to the right uſe of any creature ſubjected to the uſe, and for the welfare of mankind: the truth of both theſe Reaſons appeareth from the inability in us to any reall good, and our aptneſſe to tranſgreſſe from the firſt treſpaſſe to this moment, and will to the laſt of all our dayes.</p>
+               <p>The ſpeciall uſe this word <hi>Myſtery</hi> ſerveth for is twofold.</p>
+               <p n="1">1 Is to poſſeſſe us with the weightineſſe, and conſequence of things which moſt eſſentially concern man in his perſonall and politique condition, both ſpirituall, and civill, which tend to his extraordinary good or hurt, in reſpect of the nature of the things themſelves; and ſtands him upon to be moſt exact in the reall diſ<g ref="char:EOLhyphen"/>covery of them.</p>
+               <p n="2">2 Is to lead us, in fulleſt diſcovery and beſt diſtinction of things what they are in themſelves, &amp; to ſhun or enjoy them in their uſe with moſt care and tenderneſſe, correſpondent to their natures and inſtitution given forth by God himſelf; The truth of both theſe, common reaſon amongſt good diſpoſitions in meer naturals in humane creatures, confirmeth; and ſo Gods Word in the greateſt caſe of mans welfare expreſſed in 1 <hi>Tim.</hi> 3.16. in relation to Chriſts perſonall ſtate, and in <hi>Coloſ.</hi> 4.3. to this politique and vi<g ref="char:EOLhyphen"/>ſible kingdom; the like alſo ye have of the oppoſite conditions: 1 <hi>Joh.</hi> 3.7. to <hi>ver.</hi> 13.2. <hi>Theſ.</hi> 2.7. <hi>Revel.</hi> 17.5.</p>
+               <p>It being declared wherein a Myſtery doth conſiſt, the reaſon, and the uſe of it, in both reſpects; the reſult and chief benefit there<g ref="char:EOLhyphen"/>of, is to help us in diſtinction between good and bad, in the crea<g ref="char:EOLhyphen"/>tures and their uſe, eſpecially in thoſe of greateſt concernment to the welfare of mankind, both temporall and ſpirituall, and the contrary in both kinds; For ever ſince the curſe, man is liable to both, and moſt diſpoſed to what is evill, as no reaſonable man will deny; for brevities ſake I ſhall wholly omit to meddle with that of Artificials, Vegitables, and Animals, which if men buy with experience and loſſe it reflects onely upon eſtate, which being high or lowe commendeth not to God, but in the right uſe of both, they are approved of him; And ſhall touch upon humane nature, and the Civill Pollcie thereof, but chiefly addreſſe my ſelf to ſpend my talent of time and ſtrength received in the diſtinction
+<pb n="4" facs="tcp:158810:4"/> of Divinity and Divilliſhneſſe in the State perſonall and politicall, and that principally of Policie.</p>
+               <p>In the diſtinction of humane nature, which ſince the fall in ge<g ref="char:EOLhyphen"/>neration is extreamly corrupted, it is naturally diſcerned, &amp; with reaſon concluded, that, that man whoſe naturall conſtitution or compoſition of Elements is moſt equall, and freeſt from violent predomination of either particular, is naturally moſt healthfull and comfortable, and in humane reaſon hopefully laſting, this no Naturaliſt will denie; the oppoſite hereof muſt needs be the con<g ref="char:EOLhyphen"/>trary in every reſpect.</p>
+               <p>In the diſtinction of Civill Policie (which was and is a State, God ſince the fall approveth of, where he formerly gave no reli<g ref="char:EOLhyphen"/>gious Inſtitution, as amongſt the Gentiles, neither yet doth or will injoyn any, but as ſpiritually received from his Son and Diſciples) all rationall Naturalliſts, and Diſciples of Chriſt, hold that to be ſafeſt whoſe conſtitution and contrivance in State, is moſt free for juſtice in matters between man and man; And is leaſt incident to wayes of oppreſſion through unruly and deſtructive pride and co<g ref="char:EOLhyphen"/>vetouſneſſe, its not intended by this expreſſion to queſtion what is in preſent being, and ſtir up contention, about it, I wiſh the chief perſons in it for Government were but ſo free to do Juſtice, as the way is open for it, but evill men and oppreſſors have done, do, and will abuſe all wayes of Equitie and goodneſſe.</p>
+               <p>In the diſtinction of truly Spiritual and Divine Nature in a particular or perſonall way, all the holy men of God from <hi>Adam</hi> to this day in the effects thereof do declare (in the meaſure of wiſ<g ref="char:EOLhyphen"/>dome, power, and love received) to be endeavouring of the moſt good obtainable towards mankind; and the generall well-being of all things for its uſe: this is moſt perfectly expreſſed in Jeſus Chriſt the perfect pattern of Equity and kindneſſe, anſwerable to the Angels Proclamation at his coming, <hi>Glory to God,</hi> &amp;c. <hi>on earth peace, good will towards men:</hi> all the records of Doctrine and Diſci<g ref="char:EOLhyphen"/>pline of the way of Redemption and ſalvation, the Actions alſo and ſufferings of Chriſt fully declare the ſame; ſutable to his di<g ref="char:EOLhyphen"/>vine ſpirituall nature, he inſtituted a viſible politique State, with<g ref="char:EOLhyphen"/>out the leaſt prejudice to the Civill, as the Scripture holdeth forth at large in his own, and his peoples ſufferings by it without any treſpaſſe againſt it.</p>
+               <p>In the diſtinction of the true Eccleſiaſticall State, or Divine Po<g ref="char:EOLhyphen"/>licie, you ſhall find it hath its pattern in the nature of Chriſts per<g ref="char:EOLhyphen"/>ſonall
+<pb n="5" facs="tcp:158810:4"/> being, according to that, is the Spirit of his Policie, not ſnaring humane nature, but ſaving it; not impoſing carnall ordi<g ref="char:EOLhyphen"/>nances or ſpirituall bonds upon any, whether within, or without the State; but incouraging and approving the innocent in their wayes with freedome of ſpirit, both perfect, not extinguiſh hu<g ref="char:EOLhyphen"/>mane nature in its proper uſe; this hath no works of violence in the way of offence or defence, worketh not upon any, but with the word and counſell of the Spirit of truth; tis alwayes ſuffering, not doing wrong to any within, or without it, its free to give, not to receive; to ſerve, not to be ſerved. In ſhort, its moſt clear, that all that is of God and Chriſt in any ſpirituall way in perſonall and particular reſpects, or in the politique and publique, is in ſpirit and truth one and the ſame with him.</p>
+               <p>Every Truth diſcovereth its oppoſite in the nature thereof, whe<g ref="char:EOLhyphen"/>ther in things naturall or ſpirituall; And ſo in the diſtinction of falſely ſpirituall, or inhumane divilliſh nature, in a particular or perſonall way. All the wicked men from <hi>Adam</hi> to this day in the effects thereof declare, in the meaſure of deceit, pride, and envie received from the devill, to be endeavouring the moſt miſchief or evill that can be laid upon mankind, and upon all things provided for its uſe; This is moſt perfectly expreſſed in the curſed nature thereof, tranſported out of it ſelf, and ſubjected under the diſpo<g ref="char:EOLhyphen"/>ſition of the moſt falſe and divelliſh nature of ſpirit, which run<g ref="char:EOLhyphen"/>neth out in ful ſtreame in the expreſſion of a falſe way Religion, or in the abuſe and perverſion of any inſtitution of Gods; the truth hereof is proved in <hi>Cain,</hi> in the Jews, and in all falſe ſpirit<g ref="char:EOLhyphen"/>ed perſons likewiſe ſince thoſe times, and moſt magnificently in theſe laſt times in the ſpirit and policie of Antichriſt, wherein the very way of living is denied to thoſe that ſubmit not under the power thereof, in this perſonall way from whence ſpringeth the policie thereof. The holy Ghoſt giveth the ſame diſtinction in 1 <hi>Joh.</hi> 3.10,11,12. in the diſtinction of the policie whereof, the na<g ref="char:EOLhyphen"/>ture of the ſpirit of the divell, and his off-ſpring brought forth in the curſed nature of man, are moſt publiquely and palbably ma<g ref="char:EOLhyphen"/>nifeſted and diſcovered.</p>
+               <p>In the diſtinction of the <hi>Myſtery of Iniquitie</hi> in the publique or politique part thereof, it will appear to be the ſame with the per<g ref="char:EOLhyphen"/>ſonall, in diſpoſition or nature of ſpirit, not ſaving, but ſnaring mankind with all the wayes of ſin and miſerie that the ſtrength and violence of pride, deceit, and envie can make and do; as twas
+<pb n="6" facs="tcp:158810:5"/> 
+                  <hi>Abels</hi> portion under <hi>Cain,</hi> the Jews under Aegypt, and Babylon; Chriſts under Jews and Gentiles, ſo tis his Churches under a ſpi<g ref="char:EOLhyphen"/>rituall Aegypt and Babylon, the great cathedrall State that com<g ref="char:EOLhyphen"/>pels all high and lowe, rich and poore, bond and free, to be ſub<g ref="char:EOLhyphen"/>ject or to periſh, by deprivation of humane rights, or by infliction of undue ſufferings, here, in falſe Church-government, in the Seat and Throne of matters of conſcience (which belongeth to Chriſt alone) the ſpirit of the devill through deluſion with all lying ſignes and wonders (ruleth therein with unnaturall violence an higher way then ever was allowed, or uſed by Chriſt, or his fol<g ref="char:EOLhyphen"/>lowers: 2 <hi>Theſ.</hi> 2,3,4. <hi>Revel.</hi> 13. gulleth the Earth under guilded conformitie and uniformitie with forced hypocriſie in a way of Religion, the moſt unnaturall and divilliſh bondage in the world; which in the height of its operation tranſports humane nature in to the moſt implacable murtherous ſpirit of hell, which is plea<g ref="char:EOLhyphen"/>ſed with no thing more then the utmoſt ruine of mankind. By this very ſpirit doth the holy Ghoſt diſcover the Beaſt, the falſe Church State. <hi>Revel.</hi> 13.7. to the 18. And thus in ſhorteſt manner I could, I have given you what I have received of the Diſcovery of the <hi>My<g ref="char:EOLhyphen"/>ſtery of Iniquitie,</hi> both in the perſonall or particular; and the pub<g ref="char:EOLhyphen"/>lique or politicall part of it, which ſhunned and avoided helps to gain and preſerve the welfare of man in generall.</p>
+               <p>Now that this is a way agreeable to reaſon, and confirmed by Scripture, judge all rationall people, what is from the devill in nature and policie, muſt needs be all one, and produce the ſame effects and fruits, by which, ſaith Chriſt, of his ſpeciall inſtru<g ref="char:EOLhyphen"/>ments, falſe Prophets, ye ſhall know them: <hi>Matth.</hi> 7.16. 1 <hi>Theſ.</hi> 5.21. <hi>Prove all things, hold faſt that which is good:</hi> 1 <hi>Joh.</hi> 4. read that Chapter, and to verſe 3. of the next Chapter, where you ſhall find the ſame way or means of diſtinction by trying the ſpirits, &amp;c. The former Treatiſes touching the diſcovery of Policies and Na<g ref="char:EOLhyphen"/>tures help to clear up this; and ſo doth this following concerning falſe holineſſe, to which I refer you.</p>
+            </div>
+            <div type="treatise">
+               <head>A brief Treatiſe diſcovering th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holineſſe of Nations in their Church Inſtitution, and what relates thereunto to <hi>be falſe, and not of God.</hi>
+               </head>
+               <p>VVHich in ſhort is proved by conſidering,
+<list>
+                     <item>1 What holineſſe is, or what is meant by the Word.</item>
+                     <pb n="7" facs="tcp:158810:5"/>
+                     <item>2 How many ſorts there be.</item>
+                  </list>
+               </p>
+               <p>The meaning and drift of the Word is to ſet forth the pure na<g ref="char:EOLhyphen"/>ture, or uſe of any thing, whereby the excellence thereof is ex<g ref="char:EOLhyphen"/>preſſed, and ſo the word is uſed in Old and New Teſtament, as is commonly known to ſet forth God himſelf, and all belonging to the Divine nature, and the ſtate and uſe of all Gods inſtitutions.</p>
+               <p>The ſorts of it are two.</p>
+               <p n="1">1 Is inviſible, inherent, and unchangeable, relating to the ſpi<g ref="char:EOLhyphen"/>rituall ſubſtance expreſſed as an attribute of the ſame.</p>
+               <p n="2">2 Is viſible, impoſed, temproary and pervertable, according to all Inſtitutions relating alſo to mens profeſſions and callings, Laws and Ordinances, ſtinted by ordination, and limitation, in reſpect of people, way of worſhip, time and place, as hath been publickly and tipically expreſſed in the Church of the Jews in each parti<g ref="char:EOLhyphen"/>cular: and is now refined in the Chriſtian Church; ſutable to the more ſubſtantiall and ſpirituall worſhip, and leſſe ſubject to abuſe, but by groſſe and foule deluſion, guilding or counterfeiting the ſubſtantiall or circumſtantiall parts of any Inſtitution, wherein onely may falſe holineſſe viſibly and poſſibly couſiſt, as is moſt ap<g ref="char:EOLhyphen"/>parant, and will ſo remain in farther examination thereof. For counterfeit, or falſe holineſſe, or things ſeemingly holy, which in truth and proof are the abſolute contrary, have their riſe or means of being in humane nature, and things ſubjected to the uſe therof; for what commands that in ſpirit is perfectly and unalterably in its ſelf and nature, good or evill, holy or unholy, which needs no proof in beholding the fountains thereof.</p>
+               <p>All things ſubjected to the uſe of man, and man himſelf is un<g ref="char:EOLhyphen"/>der, or rather capable of a twofold Inſtitution, which God injoyn<g ref="char:EOLhyphen"/>eth and approveth of, to wit, Divine, and Civill government, which the morall Law in the two Tables plainly ſheweth: the ſtate of the Jews and Gentiles before Chriſts perſonal coming, and the ſtate of Chriſts Church in and ſince his time, different both from Jews, and the common way of the Gentiles politiquely and perſonally alſo moſt eminently hold forth.</p>
+               <p>Civil Government is, or ought to be that, by which all men good and bad (except exceeding and inconſiſtent therewith) have a being and preſervation, wherein the wheat and tares grow to<g ref="char:EOLhyphen"/>gether till the harveſt, freed from the unnaturall and unjuſt vio<g ref="char:EOLhyphen"/>lence of curſed humane nature, which Chriſt himſelf approveth of in <hi>Ceſars</hi> time, and his Apoſtles alſo, both doctrinally and pra<g ref="char:EOLhyphen"/>ctically.
+<pb n="8" facs="tcp:158810:6"/> This ſtate except it be deluſively tranſported out of it ſelf for the ends of divilliſh pride, deceit, and envie, is like the Sun<g ref="char:EOLhyphen"/>ſhine and rain upon the good and bad, the juſt and unjuſt, yea all creatures receive good thereby; and in its proper centure is not eaſily perverted to cut off the innocent from the earth, as common equity informeth; And hath no relation to diſtinguiſhing of mens ſpirits, or their uſes in any Divine Inſtitution which God hath gi<g ref="char:EOLhyphen"/>ven, onely to his own Son, ſince the time of types and refining, wherein their being and uſe ſutable to the beauty of his own love is made more ſaving and comfortable to the ſons of men.</p>
+               <p>Divine government which in truth is that, wherein Chriſtians or Saints have politique and viſible fellowſhip with their ſpiritu<g ref="char:EOLhyphen"/>all head Chriſt, and God the Father, the fountain of all mercie and goodneſſe, and is of an higher, not contrary, nature to Civi<g ref="char:EOLhyphen"/>lity; wherein people are led forth in the diſpoſition of their Savi<g ref="char:EOLhyphen"/>our more by love and forgiveneſſe, and doing good, yea for evill, then by principles of equity, and returning like for like in caſes of injury and wrong done and received. This I need not ſtand to prove from <hi>Abels</hi> time of oppoſition, to this day of Antichriſts reigne, wherein the innocent have plentifully gone to the wall as the weakeſt parties uſe to do, and will, till the brightneſſe of inno<g ref="char:EOLhyphen"/>cencie delivers them. This being of higher nature and uſe then humane nature and ſenſe did before the fall, and much leſſe ſince the curſe, incline to, either to look into, or affect it, but in pride and forgetfull diſobedience to God; is become like the forbidden fruit, by Gods permiſſion through the Serpents deluſion, and per<g ref="char:EOLhyphen"/>verſion, even the greateſt means of deſtruction to mankind, with the greateſt pretence of holineſſe, which is truth and realty is al<g ref="char:EOLhyphen"/>together contrary thereunto.</p>
+               <p>This falſe holineſſe or abuſe of Divine Government, and Gods holy Inſtitutions, whether in reſpect of the Church, or the Laws and Ordinances thereof, will be manifeſtly diſcovered, in con<g ref="char:EOLhyphen"/>fidering,</p>
+               <p>The conſtitution of the body according to Chriſts approved in<g ref="char:EOLhyphen"/>ſtitution; wherein obſerve:
+<list>
+                     <item>1 The nature of the power and life thereof, by which it hath all due motion.</item>
+                     <item>2 The nature of the materiall part or members incorporated in that body.</item>
+                  </list>
+               </p>
+               <p>The nature of the power properly by which it is, and moveth,
+<pb n="9" facs="tcp:158810:6"/> is no other in kind, then that by which Chriſt gave it being, which is ſpirituall, according to a divine inſtinct, and choice ſo to be; not by a power magiſteriall, or inhumanely compulſive, forcing humance nature above or contrary to its preſent light: this truth is proved in gathering the Church, in making diſciples, not ſlaves, and by caſting out of fellowſhip no farther then whence received, nor into any worſe condition for matters of the world in any due courſe; and this agreeth with the holineſſe of Divinity, which was manifeſted in himſelf by all that he did or commanded to be done for the good of man.</p>
+               <p>The nature of the members and ſubject or materiall part of the conſtitution of this divine inſtituted bodie, Chriſt viſible Church, Gods worſhippers, is divine and ſpirituall, ſutable to that of the Trinitie, and the Law thereof, which according to meaſure, bring<g ref="char:EOLhyphen"/>eth forth all goodneſſe, in truth of love of God, in all his wayes towards him, and men; and therefore Chriſt declares that thoſe that worſhip God ſhall do it in ſpirit and truth, for ſuch the Fa<g ref="char:EOLhyphen"/>ther ſeeketh to worſhip him. <hi>Joh.</hi> 4.23. <hi>Phil.</hi> 3.3. you may ſee what the Apoſtles gathered, and indeavoured to incorporate into that fellowſhip and bodie, by the ſeverall Epiſtles to the ſeverall Chur<g ref="char:EOLhyphen"/>ches in their times; you may ſee likewiſe what Law of the San<g ref="char:EOLhyphen"/>ctuary leadeth them to; and declareth them to be, or not to be that; read <hi>Epheſ.</hi> 4. beſides many other Scriptures which are num<g ref="char:EOLhyphen"/>berleſſe, and needleſſe to cite to prove the truth hereof; this is ſu<g ref="char:EOLhyphen"/>table to the new man which after God is created in righteouſneſſe and true holineſſe. <hi>Epheſ.</hi> 4.24.</p>
+               <p>Now look upon the falſe divine Inſtitutions, the falſe Church States, which are moſt divelliſh in the nature of the parts of con<g ref="char:EOLhyphen"/>ſtitution, and ye may ſoon judge what the devill hath done, where he is, and how he hath, doth, and will, if not looked unto, uſe the ſons of men as he did their Father <hi>Adam,</hi> and their Mother <hi>Eve,</hi> undo them in their being men, whileſt with deluſion they ſeek to be as gods; in this ſeeming divine government whether papiſtical, Epiſcopall, or Pretbyteriall, changing of termes and ſhapes is no<g ref="char:EOLhyphen"/>thing, without change of natures, (a woolf is the ſame in a ſheeps skin, and at the ſame time, as truly as without it) if you ſhall find in either Church the nature of the firſt part of the conſtitution wholly ſhort of, or contrary to the preſervation of mankind, and the motion thereby in the Church, ſutable to that whereby it is or hath its being, with all power of violence, and lying belowe ci<g ref="char:EOLhyphen"/>vility
+<pb n="10" facs="tcp:158810:7"/> (which truly is ſo that abuſeth it) threatning people in to the Church, and keeping them in, with a Babyloniſh Proclama<g ref="char:EOLhyphen"/>tion, fineing, impriſoning, murthering in to it, in it, and ſo to cut off from it; you may eaſily conclude what it is in point of holines, is it not a power of gallant holineſſe? that can proclaim Gentiles into Jews, and both into Chriſtians? in the expreſſion thereof, or render people for dead and undone, and can likewiſe change the Gentiles hands, alwayes under civill uſe, into ſpirituall, hereticall glibes, and tythes; Artiſts, and Linguiſts, into Hevites, and Prieſts, and make, and marre people in life and eſtate, without relation to Chriſtian or Civill treſpaſſe; Magiſtracie is gloriouſly honoured to ſerve ſuch Church power, helpeth well to propagate the Go<g ref="char:EOLhyphen"/>ſpel, and Chriſtianity, the clean contrary way; your exerciſed ſenſes herewith needs no proof, tis enough for this part.</p>
+               <p>Look into the nature of the ſecond part of the conſtitution, and you will find the nationall lamps of the Gentiles ſpirituall, di<g ref="char:EOLhyphen"/>vine perſons, ſo guided and led by the Spirit of Chriſt, and Chri<g ref="char:EOLhyphen"/>ſtian principles, that they can ſcarſe give time to hang or mur<g ref="char:EOLhyphen"/>ther one the other for the weight of a farthing, tis more proper to tell of their uncivillized natures, then of their Divinity: witneſſe daily experience of the holineſſe of the members in generall, the holy Ghoſt in the Prophets, and <hi>Revel.</hi> 13. hath fully deſcribed it; but change temporall Aegypt and Babylon for ſlaves and ſlavery, in to ſpirituall, and tis the very image of the holineſſe of this part of the conſtitution of the Nationall Churches of Europe, what dif<g ref="char:EOLhyphen"/>ference between the Church of Chriſt and the worlds? If Nati<g ref="char:EOLhyphen"/>ons be the companies of Saints, the generality of Nations are gal<g ref="char:EOLhyphen"/>lant peeces for holineſſe, in knowledge, and obedience of the will of God, either morall, or inſtituted; Witneſſe experience of leaſt reaſon: and what more can be expected from a people ſanctified with a great word and a blow, Truth I perceive muſt bring forth fulleſt evidence, though her witneſſes die in Gaole or hang for it, before the earth (I mean Civility) will incline to execute judge<g ref="char:EOLhyphen"/>ment upon the great Whore, by whom it was and is defiled, to the ſhedding of a world of innocent blood; and notwithſtanding her continuall blaſpheming againſt God, his Name, his tabernacle, and them that dwell in heaven. <hi>Revel.</hi> 13.6. All which is accom<g ref="char:EOLhyphen"/>pliſhed with myſterious Iniquitie, and falſe holineſſe. Well ſaith <hi>Wiſdome</hi> (and moſt properly in this caſe) <hi>A whore is a deep ditch: Prov.</hi> 23.27. ye may do well to examine alſo what is ſaid of her
+<pb n="11" facs="tcp:158810:7"/> parties, which if true in the naturall ſenſe, much more in the ſpi<g ref="char:EOLhyphen"/>rituall. <hi>Prov.</hi> 5.</p>
+               <p>Concerning Ordinances, circumſtantiall Inſtitutions, belong<g ref="char:EOLhyphen"/>ing to the Church of Chriſt; which falſe Churches catch at, and profane as the Babylonians did the veſſels of the Temple in the Jews time. I ſhall omit to ſpent time about at preſent, and onely touch upon the holineſſe of times, and places, which are ended in Chriſt.</p>
+               <p>Times and places are neceſſary adjuncts to every action both Civill and Divine, without them nothing hath being, and I know not why Chriſtians which may pray every where, 1 <hi>Tim.</hi> 2.8. and alwayes, 1 <hi>Theſ.</hi> 5.17. in reſpect of either injoyned; they ſhould not agree as well as Civill wiſe men upon the beſt advantage in uſe of both concerning the worſhipping of God. Morall com<g ref="char:EOLhyphen"/>mands of the firſt Table are obeyed now in the drift and inten<g ref="char:EOLhyphen"/>tion of them, not in the literall expreſſion, or elſe we have not to do with them, but the Jews onely.</p>
+               <p>In the uſe of theſe Diſcoveries, all former, and that ſhall be, by whomſoever, of any truths of God (all which tend in their right uſe to the good of man) ſuffer me, O Nation, King, Parlaments, and People, this once more with my life in my hand, (for artifi<g ref="char:EOLhyphen"/>cially holy, and butcherly uncivill murtherers are now plenty in the Land) freely to ſpeak to you, as one man, for ſo ye are in Ci<g ref="char:EOLhyphen"/>vill policie, in the propheticall expreſſion of <hi>Mich.</hi> 6.8. he hath ſhewed thee, O man, what is good, and what doth the Lord re<g ref="char:EOLhyphen"/>quire of thee? but to do juſtly, love mercie, and walk humbly with thy God; make good your juſtice and tenderneſſe towards men, and walk towards God in your own innocent knowledge, and uſe of his Inſtitutions, as he revealeth himſelf to you; not in vain con<g ref="char:EOLhyphen"/>ceits with deluſions of getting, or being higher then is your due: remember what <hi>Adam</hi> got thereby, the Jews by taking pride in their viſible Church State, and the Aegyptians and Babylonians in ſetting up worſhip of their own; Stoop a little, and take Chriſts counſell, <hi>Matth.</hi> 7.15. <hi>Beware of falſe prophets, &amp;c.</hi> there be two ſorts of them, one is in, or of the viſible inſitituted Chruches of God, the other altogether without them; ſo twas in the Jews time, ſo twas, and will be in the Chriſtians; the beſt of them are lyars or elſe could not be falſe, in calling, or meſſage; they may both go together for any good that cometh by them, for they undo all where they prevail. Witneſſe all the States upon Record in Scrip<g ref="char:EOLhyphen"/>ture,
+<pb n="12" facs="tcp:158810:8"/> and in our Civill Hiſtories and Chronicles, and the preſent ſtate of this kingdom.</p>
+               <p>In outward callings I condemne no mans perſonall condition and vertues, for God cals his people out of Babylon, yet condemns that State, and their being therein; deſtruction approaching by oppreſſion, and beleeving lies, ſeldome doth miſcarry, becauſe events contrary to expectation are inavoidable. Twas <hi>Adams</hi> caſe, and ours is too much like it: O <hi>England, Egypt,</hi> and <hi>Babylon</hi> for ſpi<g ref="char:EOLhyphen"/>rituall in ſtitution, put away the ſpirit thereof both in temporall and ſpirituall bondage, and oppreſſion; leſt the continuance there<g ref="char:EOLhyphen"/>of, put you yet farther into their plagues; forget not the myſte<g ref="char:EOLhyphen"/>rious, and holy carriage of the Clergie, you may one day ſee from whence they come, though never the bottome of the place; behold how they reform, but lay out hook and line for power and means; For humanities ſake, let them have meanes (during life) becauſe they cannot work (the more is their ſhame with Chriſtians) but cut off the entail thereof, upon their artificiall Heires; and for power lend or give none but Civill protection, which is due to all in Civill demeanor, and tis ſuch, and more, not leſſe that wins perſons to the love of God and his wayes; and by which God ſtrengthens any Civill State. I hope ye that ſway the power of the State, have enough of ſpirituall compulſive Government, except ye intend to keep up the trade of oppreſſion, wherein ye ſhall want pillows for your elbows to keep all eaſie, and none ſo fit to help you with them, as falſe prophets, or a proud, covetous ruling prieſthood; and ye Subjects, you may have enough, if you have not yet of turning in Religion by great ones, except ye mean to make a compleat Weather-cock thereof, ſure if in vain is the teaching for Doctrine mens precepts therein, as much in vain is your obeying them; Both which you may plainly perceive by con<g ref="char:EOLhyphen"/>ſidering, <hi>Iſa.</hi> 29.13. with <hi>Matth.</hi> 15.8,9. Farther take notice ci<g ref="char:EOLhyphen"/>vility, love of humanity, not dotage on ſacrifice, is the firſt and loweſt ſtep to Chriſtianity (if Religion ſhall begin at the right end) for he that ſaith he loveth God, and hateth his brother, is a liar: 1 <hi>Joh.</hi> 20. Let not this be loſt in the ſervice of a State of Cain<g ref="char:EOLhyphen"/>iſh, Jewiſh, and Antichriſtian ſacrifice; this is the root which in<g ref="char:EOLhyphen"/>ableth to honour all men, love the brotherhood, fear God, and honour the King: 1 <hi>Pet.</hi> 2.17. Serve, O earth, no longer, the cage of every unclean bird, the confined State, or religious perſon of flouriſh, and every way-turning-conſciences, which is the Broad
+<pb n="13" facs="tcp:158810:8"/> way that leadeth to the wide gate, if rude Nations, and multi<g ref="char:EOLhyphen"/>tudes go therein. Thus in Gods way with moſt hearty deſires of your right uſe, which is your ſafeſt means of preſervation, and higheſt honour, I reſt in all ſervice of Civility, yours to command whileſt, <hi>M. Q.</hi>
+               </p>
+               <p>To the Clergie of falſe Prophet, I would adde a few lines by way of Inquirie, but I ſuppoſe he is at preſent in great paſſion, being oppreſſed in the want of a power and way to vent that ſa<g ref="char:EOLhyphen"/>crificing ſpirit with which <hi>Cain</hi> ſhewed <hi>Abel,</hi> the Aegyptians and Babylonians ſlavourized the people of Iſrael, the Jews made away the Lords Prophets; the Jews and Gentiles both put Chriſt and his Diſciples to death, and torments tending thereunto; and by which alſo ſince, have been all ſuffering for conſcience ſake, and beſides this cauſe of paſſion before him.</p>
+               <p>In the time of remembrance, there is in his conſcience, and knowledge, hell and death behind him, where he hath left the deluded multitudes of rude Nations (Saints of his own making) to whom blaſphemouſly he hath adminiſtred pledges, and ſeals of ſalvation; on the one ſide of him is deſolation (the want of a way to live) on the other ſide, the ſight of an artificiall metleſome Inſtrument broken, which is good for nought in any uſe till new moulded by fire, if not in paſſion; Here is matter enough for the higheſt. But how ever if there be any intermiſſion, or when its over Clergie, remember to anſwer theſe enſuing <hi>Quaeries.</hi>
+               </p>
+               <p>
+                  <label>1 <hi>Qu.</hi>
+                  </label> Whether doth the uſe of Tongues, by which men ſpeak in ſeverall languages, and tranſlate expreſſions out of one Tongue into another, inable people to know God and his wayes with the ſons of men?</p>
+               <p>
+                  <label>2 <hi>Qu.</hi>
+                  </label> Whether the uſe of Arts in expreſſion of any thing doth infuſe any thing Divine or of God, in ſpirituall wayes either into the relator or hearers; or rather is it not as ſtrange tongues to ſuch as know them not?</p>
+               <p>
+                  <label>3 <hi>Qu.</hi>
+                  </label> Whether the Prophets thus made, and ſet up, are not that ſpirituall generation which Chriſt ſaith not paſſe till the great deſtructions, and deſolations of his Church, and the earth are fulfilled? <hi>Matth.</hi> 24.34.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
